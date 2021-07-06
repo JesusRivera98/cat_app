@@ -1,4 +1,4 @@
-# messages_app
+# cats_app
 This repo is from Platzi's course "Java SE Persistencia de Datos"(https://platzi.com/clases/java-persistencia/)
 
 ## Table of contents
